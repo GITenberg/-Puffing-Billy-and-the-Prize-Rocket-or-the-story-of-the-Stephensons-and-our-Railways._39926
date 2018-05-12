@@ -1,0 +1,35 @@
+_repo: -Puffing-Billy-and-the-Prize-Rocket-or-the-story-of-the-Stephensons-and-our-Railways._39926
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39926-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Knight, Helen C. (Helen Cross)
+    aliases:
+    - Knight, H. C. (Helen Cross)
+    - Knight, Helen Cross
+    - Cross, Helen
+    birthdate: 1814
+    deathdate: 1906
+    gutenberg_agent_id: '40311'
+    url: http://www.gutenberg.org/2009/agents/40311
+description: ''
+gutenberg_issued: '2012-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stephenson, George, 1781-1848 -- Juvenile literature'
+- !lcsh 'Inventors -- Juvenile literature'
+- !lcc 'TF'
+- !lcc 'PZ'
+- !lcsh 'Railroads -- England -- History -- Juvenile literature'
+- !lcsh 'Stephenson, Robert, 1803-1859 -- Juvenile literature'
+title: "\"Puffing Billy\" and the Prize \"Rocket\"\r\nor, the story of the Stephensons\
+  \ and our Railways."
+url: http://www.gutenberg.org/ebooks/39926
